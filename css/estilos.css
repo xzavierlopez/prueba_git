@@ -1,0 +1,28 @@
+body
+{
+    color: rgb(0, 255, 76); 
+    text-align: center;
+    font-family:'Courier New';
+
+}
+#cabecera
+{
+    background: brown;
+    box-shadow: 0px 5px 30px 0px;
+    color: cornsilk;
+    margin: 0;
+    padding: 0.5em;
+}
+
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
